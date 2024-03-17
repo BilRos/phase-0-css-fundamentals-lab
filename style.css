@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+
+#head {
+text-align: center;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav > a{
+  padding: 10px;
+  background-color: grey;
+}
+
+.caption_for_image{
+    text-align: center;
+    font-size: 13px;
+}
+
+
+#text_for_image{
+  text-align: center;
+
+}
+
+
+#details > div {
+float: left;
+text-align: center;
+
+}
